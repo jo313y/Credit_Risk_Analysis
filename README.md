@@ -40,4 +40,4 @@ Random Sampling, SMOTE Oversampling, CLuster Centroid Underampling had comparabl
 The Balanced Random Forest Classifier and the Easy Ensemble Classifier are both better techniques than the previous four. They both have a lot higher accuracies. The Balanced Random Forest Classifier has a relative recall to the prevous four methods, but the Easy Ensemble Classifier has a higher accuracy, precisio, and recall. 
 
 
-Easy Ensemble Classifier is easily the superiour technique when comparing credit risk. 
+Easy Ensemble Classifier is easily the superiour technique when comparing credit risk. It has the highest accuracy, highest precision, and highest recall.
